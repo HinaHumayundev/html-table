@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
